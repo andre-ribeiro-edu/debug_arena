@@ -283,7 +283,7 @@ if st.session_state.game_over:
 # ══════════════════════════════════════════════════════════════════════════════
 c = CHALLENGES[st.session_state.current]
 
-st.markdown("## 🐛 Debug Quest — Python")
+st.markdown("## 🐛 Debug Arena — Python")
 
 col1, col2, col3, col4 = st.columns(4)
 with col1:
